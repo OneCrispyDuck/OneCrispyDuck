@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-  </a> <a href="/workspaces/OneCrispyDuck/Joseph_CV.pdf">
+  </a> <a href="Joseph_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader" alt="Resume"/>
 </div>
 <hr/>
