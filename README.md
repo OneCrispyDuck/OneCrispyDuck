@@ -38,8 +38,8 @@ Here are some ideas to get you started:
     <td width="70%">
       <ul>
         <li>🌱 <strong>Currently Learning:</strong> Full-Stack Development & Cyber Security</li>
-        <li>💼 <strong>Interests:</strong>Full-stack development, Cloud Architecture, Pentesting</li>
-        <li>🎯 <strong>Goal:</strong> Expertise in cloud, Security Security Specialist, Pen Tester, forensic </li>
+        <li>💼 <strong>Interests:</strong>Full-stack development, Cloud Architecture, Pen Testing</li>
+        <li>🎯 <strong>Goal:</strong> Expertise in forensic security,cloud security,Pen Tester, </li>
       </ul>
     </td>
     <td width="30%" align="center">
