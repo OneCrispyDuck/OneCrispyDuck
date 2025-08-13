@@ -79,8 +79,8 @@ Here are some ideas to get you started:
   <a href="https://t.me/joeyy_g">
     <img src="https://img.shields.io/badge/Telegram-@joeyy_g-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:joseph_j1996@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-joseph_j1996@protonmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:joseph_j1996@outlook.com">
+    <img src="https://img.shields.io/badge/Email-joseph_j1996@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/gutierrez-joseph-james">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
