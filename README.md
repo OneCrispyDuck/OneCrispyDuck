@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">G'day! 👋, OneCrispyDuck here!</h1>
 <h3 align="center">Student of Computer Science & 4th-year Bachelors at the Hong Kong Metropolitan Univeristy</h3>
 <p align="center">
-  <em>“I like computers, and all the headaches that come along with them..”</em>
+  <em>I like computers, and all the headaches that come along with them</em>
 </p>
 
 <div align="center">
