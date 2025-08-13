@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h4>Programming languages</h4>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,r,java,r,react,mysql,nodejs" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,r,java,react,mysql,nodejs" alt="Programming languages" />
 
 <h4>Frameworks and tools</h4>
 <img src="https://skillicons.dev/icons?i=bash,git,github,aws,azure,anaconda,androidstudio,express,figma,discord,bots,gradle" alt="Languages & Frameworks" />
